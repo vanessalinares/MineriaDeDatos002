@@ -9,4 +9,4 @@
 
 [Ejercicio Limpieza de Datos](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Ej_Limpieza_Equipo1.ipynb)
 
-[PIA - Primera Entrega]()
+[PIA - Primera Entrega](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Avance1_PIA_Equipo1.ipynb)
