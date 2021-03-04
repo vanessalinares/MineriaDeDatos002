@@ -7,6 +7,6 @@
 
 [Ejercicio Python Basico](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/PythonBasico_1723237.ipynb)
 
-[Ejercicio Limpieza de Datos]()
+[Ejercicio Limpieza de Datos](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Ej_Limpieza_Equipo1.ipynb)
 
 [PIA - Primera Entrega]()
