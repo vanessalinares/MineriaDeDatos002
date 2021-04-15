@@ -23,4 +23,4 @@
 
 
 ## Fase 3
-[Ejercicio Visualización](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Visualizacion_Equipo1.ipynbf)
+[Ejercicio Visualización](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Visualizacion_Equipo1.ipynb)
