@@ -24,4 +24,5 @@
 
 ## Fase 3
 [Ejercicio Visualización](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Visualizacion_Equipo1.ipynb)
-[PIA - Segunda Entrega](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Visualizacion_Equipo1.ipynb)
+
+[PIA - Segunda Entrega](https://github.com/Dayan28/MINERIA-DE-DATOS/blob/main/AvancePIA_II_02_Equipo1.ipynb)
