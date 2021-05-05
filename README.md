@@ -26,3 +26,5 @@
 [Ejercicio Visualización](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/Visualizacion_Equipo1.ipynb)
 
 [PIA - Segunda Entrega](https://github.com/Dayan28/MINERIA-DE-DATOS/blob/main/AvancePIA_II_02_Equipo1.ipynb)
+
+[PIA - Poster](https://github.com/vanessalinares/MineriaDeDatos002/blob/main/PIA%20Poster%20-%20Mineria%20de%20Datos.pdf)
